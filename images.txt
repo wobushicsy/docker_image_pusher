@@ -3,6 +3,9 @@ ubuntu
 
 # useful
 mysql
+redis
+go
+python3
 nginx
 hello-world
 
