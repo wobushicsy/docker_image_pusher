@@ -1,8 +1,7 @@
 # CS144
-ubuntu:23.10
+ubuntu
 
 # useful
-ubuntu:20.04
 mysql
 nginx
 hello-world
