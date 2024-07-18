@@ -4,7 +4,7 @@ ubuntu
 # useful
 mysql
 redis
-go
+golang
 python3
 nginx
 hello-world
